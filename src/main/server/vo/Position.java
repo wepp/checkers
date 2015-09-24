@@ -1,4 +1,4 @@
-package main;
+package main.server.vo;
 
 /**
  * Created by Isaiev on 24.09.2015.
@@ -20,8 +20,5 @@ public class Position {
     public int getX() {
         return x;
     }
-
-
-
 
 }
